@@ -1,0 +1,13 @@
+
+
+
+I am a lead trailblazer for health and wellbeing in Wolverhampton.- 👋 Hi, I’m @WinstonLindsay
+I am interested in connecting local people to local services- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+WinstonLindsay/WinstonLindsay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
